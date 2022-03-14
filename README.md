@@ -30,5 +30,7 @@ Bonus points
 1) Create an UI: The user picks up a file from the file system and, after selecting it, all common projects of the pair are displayed in 
 datagrid with the following columns: Employee ID #1, Employee ID #2, Project ID, Days worked 
 2) More than one date format to be supported, extra points will be given if all date formats are supported
+
 Delivery time
+
 One day after receiving the task.
